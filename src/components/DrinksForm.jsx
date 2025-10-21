@@ -78,7 +78,7 @@ function DrinksForm({ onBack }) {
       >
         <div className="form-header">
           <h1>🥤 Drinks Order Form</h1>
-          <p className="form-mantra">Made with love, served with comfort.</p>
+          <p className="form-mantra">Rooted in taste, refined in style.</p>
           <p>Choose from our selection of traditional Nigerian beverages. All made fresh to order!</p>
         </div>
 

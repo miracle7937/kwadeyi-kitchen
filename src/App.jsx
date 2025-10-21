@@ -145,7 +145,14 @@ function App() {
             <button className="nav-link-button" onClick={() => setShowPriceList(true)}>
               💰 Prices
             </button>
-            <a href="#contact">Contact</a>
+            <a 
+              href="https://www.instagram.com/harey_kitchen" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="instagram-link"
+            >
+              📸
+            </a>
             <motion.button
               className="nav-cart-button"
               onClick={() => setShowCart(true)}
@@ -206,7 +213,7 @@ function App() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.8 }}
           >
-            Made with love, served with comfort.
+            Rooted in taste, refined in style.
           </motion.p>
           <motion.p 
             className="hero-tagline"
@@ -386,7 +393,7 @@ function App() {
               <img src="/logo-new.jpeg" alt="Harey's Kitchen" className="footer-logo-img" />
               <h3>Harey's Kitchen</h3>
             </div>
-            <p>Made with love, served with comfort.</p>
+            <p>Rooted in taste, refined in style.</p>
           </div>
           <div className="footer-section">
             <h4>Quick Links</h4>
@@ -407,6 +414,17 @@ function App() {
                 whileHover={{scale: 1.05}}
               >
                 💬 WhatsApp Us
+              </motion.a>
+            </p>
+            <p>
+              <motion.a 
+                href="https://www.instagram.com/harey_kitchen?igsh=MWlpM2IzYzB5bnMzeA==" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{color: '#E1306C', fontWeight: 'bold', textDecoration: 'none'}}
+                whileHover={{scale: 1.05}}
+              >
+                📸 Follow Us on Instagram
               </motion.a>
             </p>
           </div>

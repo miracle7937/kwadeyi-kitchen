@@ -69,7 +69,7 @@ function ProteinForm({ onBack }) {
       >
         <div className="form-header">
           <h1>🍖 Protein Box Order Form</h1>
-          <p className="form-mantra">Made with love, served with comfort.</p>
+          <p className="form-mantra">Rooted in taste, refined in style.</p>
           <p>Select your preferred proteins and let us know how you'd like them prepared. Premium quality meats and fish, perfectly seasoned and cooked to perfection.</p>
         </div>
 

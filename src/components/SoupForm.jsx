@@ -132,7 +132,7 @@ function SoupForm({ onBack }) {
       >
         <div className="form-header">
           <h1>🍲 Soup Order Form</h1>
-          <p className="form-mantra">Made with love, served with comfort.</p>
+          <p className="form-mantra">Rooted in taste, refined in style.</p>
           <p>Kindly fill in the order form for your preferred soup. Please be specific about the details for your soup.</p>
           <button 
             type="button"

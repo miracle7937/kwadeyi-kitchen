@@ -123,6 +123,23 @@
   animation: none;
 }
 
+.instagram-link {
+  font-size: 1.5rem;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  filter: grayscale(0);
+}
+
+.instagram-link:hover {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 10px #E1306C);
+}
+
+.instagram-link::after {
+  display: none;
+}
+
 /* Cart Button in Navigation */
 .nav-cart-button {
   position: relative;

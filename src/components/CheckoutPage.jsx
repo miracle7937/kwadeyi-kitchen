@@ -442,7 +442,7 @@ function CheckoutPage({ cartItems, onBack, onSubmit }) {
           </motion.button>
 
           {contactInfo.trim() && deliveryMethod && (
-            <p className="secure-text">📧 Order confirmation will be sent to estherasala@gmail.com • Made with love, served with comfort ❤️</p>
+            <p className="secure-text">📧 Order confirmation will be sent to estherasala@gmail.com • Rooted in taste, refined in style ✨</p>
           )}
         </motion.div>
       </div>

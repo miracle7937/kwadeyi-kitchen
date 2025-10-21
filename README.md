@@ -1,6 +1,6 @@
 # Harey's Kitchen - Landing Page
 
-**"Made with love, served with comfort."**
+**"Rooted in taste, refined in style."**
 
 A beautiful, food-focused landing page for Harey's Kitchen, featuring animated product cards for soups, protein boxes, and drinks.
 
