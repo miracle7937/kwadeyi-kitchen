@@ -90,7 +90,7 @@ function CheckoutPage({ cartItems, onBack, onSubmit }) {
       const formData = new FormData()
       
       // Email Settings
-      formData.append('_subject', `🍲 Kwadeyi Kitchen - New Order from ${customerName} - ${cartItems.length} item(s)`)
+      formData.append('_subject', `🍲 Harey's Kitchen - New Order from ${customerName} - ${cartItems.length} item(s)`)
       formData.append('_template', 'table')
       formData.append('_captcha', 'false')
       
@@ -364,7 +364,7 @@ function CheckoutPage({ cartItems, onBack, onSubmit }) {
                   <motion.a
                     href={(() => {
                       // Build detailed WhatsApp message with all items
-                      let message = `Hello Kwadeyi Kitchen! 🍲\n\nI just placed an order on your website:\n\n`
+                      let message = `Hello Harey's Kitchen! 🍲\n\nI just placed an order on your website:\n\n`
                       
                       cartItems.forEach((item, index) => {
                         message += `━━━━━━━━━━━━━━━━━━\n`

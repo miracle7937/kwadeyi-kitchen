@@ -2,7 +2,7 @@ import { createContext, useContext, useState, useEffect } from 'react'
 
 const CartContext = createContext()
 
-const CART_STORAGE_KEY = 'kwadeyi_kitchen_cart'
+const CART_STORAGE_KEY = 'hareys_kitchen_cart'
 
 export function CartProvider({ children }) {
   // Initialize cart from localStorage

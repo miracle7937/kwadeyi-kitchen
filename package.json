@@ -1,9 +1,9 @@
 {
-  "name": "kwadeyi-kitchen",
+  "name": "hareys-kitchen",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Chukwude-ebuka.github.io/kwadeyi-kitchen",
+  "homepage": "https://miracle7937.github.io/kwadeyi-kitchen",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

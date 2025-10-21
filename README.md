@@ -1,8 +1,8 @@
-# Kwadeyi Kitchen - Landing Page
+# Harey's Kitchen - Landing Page
 
 **"Made with love, served with comfort."**
 
-A beautiful, food-focused landing page for Kwadeyi Kitchen, featuring animated product cards for soups, protein boxes, and drinks.
+A beautiful, food-focused landing page for Harey's Kitchen, featuring animated product cards for soups, protein boxes, and drinks.
 
 ## Features
 

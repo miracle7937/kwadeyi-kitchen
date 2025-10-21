@@ -137,8 +137,8 @@ function App() {
             whileHover={{ scale: 1.05 }}
             transition={{ type: 'spring', stiffness: 400 }}
           >
-            <img src="/logo.jpg" alt="Kwadeyi Kitchen" className="logo-img" />
-            <span className="logo-text">Kwadeyi Kitchen</span>
+            <img src="/logo-new.jpeg" alt="Harey's Kitchen" className="logo-img" />
+            <span className="logo-text">Harey's Kitchen</span>
           </motion.div>
           <div className="nav-links">
             <a href="#menu">Menu</a>
@@ -383,8 +383,8 @@ function App() {
         <div className="footer-content">
           <div className="footer-section">
             <div className="footer-logo">
-              <img src="/logo.jpg" alt="Kwadeyi Kitchen" className="footer-logo-img" />
-              <h3>Kwadeyi Kitchen</h3>
+              <img src="/logo-new.jpeg" alt="Harey's Kitchen" className="footer-logo-img" />
+              <h3>Harey's Kitchen</h3>
             </div>
             <p>Made with love, served with comfort.</p>
           </div>
@@ -400,7 +400,7 @@ function App() {
             <p>📱 +234 813 595 7675</p>
             <p>
               <motion.a 
-                href="https://wa.me/2348135957675?text=Hello%20Kwadeyi%20Kitchen!%20I%20have%20a%20question..." 
+                href="https://wa.me/2348135957675?text=Hello%20Harey's%20Kitchen!%20I%20have%20a%20question..." 
                 target="_blank" 
                 rel="noopener noreferrer"
                 style={{color: '#25D366', fontWeight: 'bold', textDecoration: 'none'}}
@@ -412,7 +412,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2025 Kwadeyi Kitchen. All rights reserved.</p>
+          <p>&copy; 2025 Harey's Kitchen. All rights reserved.</p>
         </div>
       </footer>
     </div>
